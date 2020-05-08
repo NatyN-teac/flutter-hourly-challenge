@@ -1,16 +1,24 @@
 # hourchallenge
 
-A new Flutter application.
+this is a flutter UI/UX design implementation challenge within an a duration of 1 - 2 hours
+under this i m going to implement a design from dribble by https://dribbble.com/tatechow 
+using flutter and dart programming.
 
-## Getting Started
+// pull and check it on your machine
+i haven't implement the navigation and button click and stuff like that,but to check the screens you can change the home: tag under the Material app and take a look to both screens. comment on it or do whatever you like. 
 
-This project is a starting point for a Flutter application.
+there are two statefull Widget classes
+1. InsideRestaurant
+2. InsideCart
 
-A few resources to get you started if this is your first Flutter project:
+the first one is the first screen design implementation and the second for the cart design
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+
+
+@NatyHourlyChallenge
