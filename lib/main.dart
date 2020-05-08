@@ -8,13 +8,13 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'One Hour Challenge',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
 //        primaryColor: const Color(0xffd32f2f)
 
       ),
-      home: InsideCart(),
+      home: InsideRestaurant(),
     );
   }
 }
